@@ -15,7 +15,7 @@ class SearchBox extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
       margin:EdgeInsets.only(left: width*0.005),
-      elevation: 4, // Adjust the elevation for the shadow
+      elevation: 4, 
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(25.0),
       ),

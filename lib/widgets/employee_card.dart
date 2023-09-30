@@ -86,7 +86,7 @@ class PostCard extends StatelessWidget {
 
                 const SizedBox(height: 4.0),
 
-                // Rating
+               
                 Row(
                   children: [
                     const Icon(
@@ -121,7 +121,7 @@ class PostCard extends StatelessWidget {
 
                 const SizedBox(height: 4.0),
 
-                // Price
+                
                 Text(
                  '\$$price',
                   style: GoogleFonts.poppins(
